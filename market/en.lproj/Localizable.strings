@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  market
+
+  Created by Ramon Vasconcelos on 11.11.2022.
+  
+*/
+
+"Products" = "Products";
+"Go to Cart" = "Go to Cart";
+"Cart Items: %lld" = "Cart Items: %lld";
+"Not enough products are available" = "Not enough products are available";
+"Ok" = "Ok";
+"Price: %lld" = "Price: %lld";
+"Brand: %@" = "Brand: %@";
+"In Stock: %lld" = "In Stock: %lld";
+"Add to cart" = "Add to cart";
+"Units of product" = "Units of product";
+"Amount" = "Amount";
+"Please enter how many products you want." = "Please enter how many products you want.";
+
+// Accessibility Labels
+"Product price" = "Product Price";
+"Product brand" = "Product Brand";
+"In stock Products" = "In Stock Products";
+"Add to cart button" = "Add to cart button";
+"Ok button" = "Ok button";
+"Product image" = "Product Image";
+"Amount of products desired" = "Amount of products desired";
+"Go to cart button" = "Go to cart button";
+"Opens cart view" = "Opens cart view";
+"Closes alert" = "Closes alert";
+"Adds product to cart" = "Adds product to cart";
+"Enter amount of products" = "Enter amount of products";
+"Product title" = "Product title";
+"Product description" = "Product description";

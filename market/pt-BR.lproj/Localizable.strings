@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  market
+
+  Created by Ramon Vasconcelos on 11.11.2022.
+  
+*/
+
+"Products" = "Produtos";
+"Go to Cart" = "Ir para o carrinho";
+"Cart Items: %lld" = "Carrinho: %lld";
+"Not enough products are available" = "Número insuficiente de produtos";
+"Ok" = "Ok";
+"Price: %lld" = "Preço: %lld";
+"Brand: %@" = "Marca: %@";
+"In Stock: %lld" = "Em estoque: %lld";
+"Add to cart" = "Adicionar ao carrinho";
+"Units of product" = "Unidades";
+"Amount" = "Quantidade";
+"Please enter how many products you want." = "Insira o número de produtos desejado.";
+
+// Accessibility Labels
+"Product price" = "Preço do produto";
+"Product brand" = "Marca do produto";
+"In stock Products" = "Qunatidade de produtos em estoque";
+"Add to cart button" = "Botão adicionar ao carrinho";
+"Ok button" = "Botão Ok";
+"Product image" = "Imagem do produto";
+"Amount of products desired" = "Qunatidade de produtos desejada";
+"Go to cart button" = "Botão ir para o carrinho";
+"Opens cart view" = "Abre o carrinho de compras";
+"Closes alert" = "Fecha o alerta";
+"Adds product to cart" = "Adiciona o produto ao carrinho";
+"Enter amount of products" = "Insira a quantidade de produtos desejada";
+"Product title" = "Título do produto";
+"Product description" = "Descrição do produto";
